@@ -1,4 +1,6 @@
-# Playing Atari with DQN (DQN, Double DQN, Dueling Network) and AC(Actor-Critic, Advantage Actor-Critic) using TD Learning, REINFORCE, Experience Replay Methods
+# Playing Atari with Deep Reinforcement Learning Methods
+
+Implement DQN (DQN, Double DQN, Dueling Network) and AC (Actor-Critic, Advantage Actor-Critic) methods with TD Learning, REINFORCE, and Experience Replay strategies.
 
 Run on Colab with GPU accelerated.
 
